@@ -1,0 +1,33 @@
+/* Gövdeye basit bir stil */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+/* Bileşenler için daha iyi bir düzen */
+.App {
+  max-width: 800px;
+  margin: auto;
+  padding: 1rem;
+}
+
+header, section, footer {
+  margin-bottom: 1.5rem;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #282c34;
+  padding: 1rem;
+  color: white;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #282c34;
+  color: white;
+}
