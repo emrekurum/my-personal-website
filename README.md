@@ -1,2 +1,1 @@
-Personal Web Site with React.js
-  
+Personal Web Site with React.
